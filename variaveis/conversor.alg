@@ -1,18 +1,18 @@
 algoritmo "primeiro"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 14/12/2025
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 reais: inteiro
 dolares: real
 inicio
-escreval("Qual valor gostaria de converter de Real para dólar?")
+escreval("Qual valor gostaria de converter de Real para dÃ³lar?")
 leia(reais)
 
 dolares <- reais / 5.40
-escreval ("O valor total convertido é de:", dolares)
+escreval ("O valor total convertido Ã© de:", dolares)
  
 
 
